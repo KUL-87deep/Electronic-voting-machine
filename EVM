@@ -1,0 +1,7 @@
+# Electronic-voting-machine
+It's a 4 candidate based voting machine with delay timer simulated in proteus simulation software
+It has two parts 1. the vote counter part
+2. voting part
+Vote counter: In vote counter the data of the voters will be processed as the machine delay end and after the processing through hardware it will show the final output as the winner
+Voting part: It's a part with a button delay and a machine delay the data will keep store here in latch till the machine delay as the machine delay end it will processed to the Vote count part.
+This is the simulation of the circuit that has done on proteous software.
